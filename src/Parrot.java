@@ -1,4 +1,5 @@
 
-public class Parrot {
-
+public class Parrot extends Bird implements prey
+{
+    
 }

@@ -1,4 +1,5 @@
 
-public interface Prey {
+public interface Prey 
+{
 
 }

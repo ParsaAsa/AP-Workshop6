@@ -10,5 +10,4 @@ public abstract class Bird extends Animal
     public String getHeightOfFly() {
         return heightOfFly;
     }
-    
 }

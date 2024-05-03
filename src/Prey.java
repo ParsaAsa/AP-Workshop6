@@ -1,4 +1,4 @@
-
-public interface Prey {
-
+public interface Prey 
+{
+    public String getName();
 }

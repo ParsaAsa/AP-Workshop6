@@ -1,4 +1,4 @@
-
-public interface Hunter {
-
+public interface Hunter 
+{
+    public void hunt(Prey prey);
 }
